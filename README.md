@@ -14,4 +14,7 @@
     * dlv창이 뜨면 소스창으로 돌아가서 > F5
     * 입력할 거 입력
 
+## Prelaunch
+* 해봤는데 안된다. `vscode-go-nightly` 확장으로도 시도해봤는데 안된다. 걍 task 따로 debug 따로 실행해야될 듯
+
 끗.
