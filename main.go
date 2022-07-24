@@ -7,6 +7,7 @@ import (
 
 func main() {
 	var a int
+	fmt.Println("Please enter any strings")
 	fmt.Scanf("%d", &a)
 	fmt.Println(a)
 
